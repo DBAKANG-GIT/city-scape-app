@@ -1,3 +1,7 @@
+# Introduction
+The goal of the website is for corporate companies to enquiry about pricing and also the website should show the services that we give and how we are going to help them achieve their goal.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
